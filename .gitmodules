@@ -1,3 +1,4 @@
 [submodule "libs/hbb_common"]
+	branch = main
 	path = libs/hbb_common
 	url = https://github.com/chroime/hbb_common
